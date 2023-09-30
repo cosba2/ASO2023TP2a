@@ -1,0 +1,1 @@
+El problema es que se tienen una condicion de carrera, es decir que los hilos se ejecutan en simultaneo, por lo tanto siempre se va a quedar uno que "come mas". y segun el orden que le de la cpu va a figurar uno u otro.
